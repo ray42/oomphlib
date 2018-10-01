@@ -1459,6 +1459,8 @@ demo_drivers/multigrid/helmholtz_multigrid/structured_cubic_point_source
 demo_drivers/multigrid/helmholtz_multigrid/unstructured_two_d_helmholtz
 demo_drivers/multigrid/helmholtz_multigrid/validate_sh_timing_generated_by_make_check.dat
 
+src/linearised_navier_stokes/.libs/
+src/linearised_navier_stokes/linearised_navier_stokes.h
 
 
 
